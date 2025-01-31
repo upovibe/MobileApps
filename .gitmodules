@@ -1,0 +1,3 @@
+[submodule "estateora"]
+	path = estateora
+	url = https://github.com/upovibe/estateora.git
